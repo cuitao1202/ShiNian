@@ -13,6 +13,7 @@
 		189C7B341C9A3EA100A9177C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 189C7B321C9A3EA100A9177C /* Main.storyboard */; };
 		189C7B361C9A3EA100A9177C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 189C7B351C9A3EA100A9177C /* Assets.xcassets */; };
 		189C7B391C9A3EA100A9177C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 189C7B371C9A3EA100A9177C /* LaunchScreen.storyboard */; };
+		189C7B421C9A44E200A9177C /* ceshiTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 189C7B411C9A44E200A9177C /* ceshiTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		189C7B351C9A3EA100A9177C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		189C7B381C9A3EA100A9177C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		189C7B3A1C9A3EA100A9177C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		189C7B401C9A44E200A9177C /* ceshiTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ceshiTableViewController.h; sourceTree = "<group>"; };
+		189C7B411C9A44E200A9177C /* ceshiTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ceshiTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				189C7B2D1C9A3EA100A9177C /* AppDelegate.m */,
 				189C7B2F1C9A3EA100A9177C /* ViewController.h */,
 				189C7B301C9A3EA100A9177C /* ViewController.m */,
+				189C7B401C9A44E200A9177C /* ceshiTableViewController.h */,
+				189C7B411C9A44E200A9177C /* ceshiTableViewController.m */,
 				189C7B321C9A3EA100A9177C /* Main.storyboard */,
 				189C7B351C9A3EA100A9177C /* Assets.xcassets */,
 				189C7B371C9A3EA100A9177C /* LaunchScreen.storyboard */,
@@ -149,6 +154,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				189C7B421C9A44E200A9177C /* ceshiTableViewController.m in Sources */,
 				189C7B311C9A3EA100A9177C /* ViewController.m in Sources */,
 				189C7B2E1C9A3EA100A9177C /* AppDelegate.m in Sources */,
 				189C7B2B1C9A3EA100A9177C /* main.m in Sources */,
